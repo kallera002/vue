@@ -6,15 +6,14 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Register',
   data () {
     return {
-      msg: 'Welcome'
+      msg: 'Register'
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 </style>

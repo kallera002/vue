@@ -1,4 +1,4 @@
-import Api from '@/Service/Api'
+import Api from '@/service/Api'
 
 export default {
   register (credentials) {
